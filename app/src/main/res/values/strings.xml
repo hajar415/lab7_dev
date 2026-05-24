@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CelebsRating</string>
+    <string name="search_hint">Rechercher un acteur…</string>
+    <string name="share_text">Découvrez CelebsRating !</string>
+    <string name="share_title">Partager l\'application</string>
+    <string name="popup_title">Modifier la note</string>
+    <string name="popup_msg">Donnez une note entre 1 et 5 :</string>
+    <string name="btn_valider">Valider</string>
+    <string name="btn_annuler">Annuler</string>
+</resources>
